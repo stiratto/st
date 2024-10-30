@@ -91,8 +91,3 @@ Reset Zoom  | `ctrl` + `shift` + `Home`
 
 * Forked from [https://st.suckless.org/](https://st.suckless.org/)
 * Based on Aurélien APTEL aurelien.aptel@gmail.com bt source code.
-# st
-# st
-# st
-# st
-# st
